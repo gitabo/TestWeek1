@@ -1,0 +1,3 @@
+Data;Categoria;Descrizione;Importo
+5/9/2021;prova;spesa1;300
+6/9/2021;prova2;spesa2;100
